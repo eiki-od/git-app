@@ -1,3 +1,3 @@
-class Article < ApplicationRecord
+class Article < ApplicationRecordhanges
   validates :title, presence: true
 end
